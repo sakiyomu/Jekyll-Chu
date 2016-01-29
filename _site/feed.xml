@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>老朱不在日本</title>
+    <title>Jekeyll &amp;#9818; Hyde</title>
     <description>欢迎来到我的暗黑世界</description>
-    <link>http://joshgerdes.com/jekyll-uno//</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 30 Jan 2016 02:40:13 +0800</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2016 02:40:13 +0800</lastBuildDate>
+    <link>http://jekyllhy.de//</link>
+    <atom:link href="http://jekyllhy.de//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 30 Jan 2016 02:59:40 +0800</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2016 02:59:40 +0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 23:04:23 +0800</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <link>http://jekyllhy.de//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
