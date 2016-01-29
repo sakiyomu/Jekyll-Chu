@@ -2,7 +2,7 @@
 title: 老朱不在日本
 description: '欢迎来到我的暗黑世界'
 url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: ''
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
