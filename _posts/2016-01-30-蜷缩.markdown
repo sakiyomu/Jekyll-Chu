@@ -5,11 +5,7 @@ date:   2016-01-30 01:15:50
 categories: 情绪
 tags: [心情, 情绪, 低落, 蜷缩, 蜷曲, huddled]
 ---
-<div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="/images/postimg/2016-01-30_2.jpg" itemprop="contentUrl"><img src="/images/postimg/2016-01-30.jpg" width="100%" alt="蜷缩" itemprop="thumbnail"></a>
-	</figure>
-</div>
+<a href="/images/postimg/2016-01-30_2.jpg"><img src="/images/postimg/2016-01-30.jpg" width="100%" alt="蜷缩"></a>
 <div style="text-align:center;line-height:2;">
 我抱着这个你不要的自己，<br />
 埋得很深很深，<br />
