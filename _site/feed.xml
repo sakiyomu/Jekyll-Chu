@@ -5,8 +5,8 @@
     <description>光明与黑暗，理智与冲动，天使与恶魔&lt;br /&gt;Jekyll &amp;amp; Hyde</description>
     <link>http://jekyllhy.de//</link>
     <atom:link href="http://jekyllhy.de//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 30 Jan 2016 16:53:44 +0800</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2016 16:53:44 +0800</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2016 17:03:39 +0800</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2016 17:03:39 +0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -20,9 +20,22 @@
 流泪。
 &lt;/div&gt;
 
-&lt;div style=&quot;text-align:center;margin-top:20px;&quot;&gt;
+&lt;style&gt;
+.sp-only{display:none;}
+@media screen and (max-width: 750px){
+.pc-only{display:none;}
+.sp-only{display:block;}
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;pc-only&quot; style=&quot;text-align:center;margin-top:20px;&quot;&gt;
 &lt;embed src=&quot;http://music.163.com/style/swf/widget.swf?sid=27937437&amp;amp;type=2&amp;amp;auto=1&amp;amp;width=320&amp;amp;height=66&quot; width=&quot;340&quot; height=&quot;86&quot; allownetworking=&quot;all&quot; /&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;sp-only&quot; style=&quot;text-align:center;margin-top:20px;&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.xiami.com/widget/player-single?uid=4902969&amp;amp;sid=3367547&amp;amp;mode=js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Sat, 30 Jan 2016 09:15:50 +0800</pubDate>
         <link>http://jekyllhy.de//2016/%E8%9C%B7%E7%BC%A9/</link>

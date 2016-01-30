@@ -20,6 +20,20 @@ tags: [Jekeyll, 心情, 情绪, 压力, 绑架, 道德, pressure]
 
 在你还不能给她安全感之前，请克制自己的行为。
 
-<div style="margin-top:20px;">
+<style>
+.sp-only{display:none;}
+@media screen and (max-width: 750px){
+.pc-only{display:none;}
+.sp-only{display:block;}
+}
+</style>
+
+
+<div class="pc-only" style="margin-top:20px;">
 <embed src="http://music.163.com/style/swf/widget.swf?sid=276840&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 </div>
+
+<div class="sp-only" style="margin-top:20px;">
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=4902969&sid=1770906933&mode=js"></script>
+</div>
+
