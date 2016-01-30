@@ -5,7 +5,7 @@ date:   2016-01-30 16:00:00
 categories: Jekyll
 tags: [心情, 情绪, 压力, 绑架, 道德, pressure]
 ---
-<img src="/images/postimg/2016-01-30_3.jpg" width="100%" alt="捆绑">  
+<img src="/images/postimg/2016-01-30_3.jpg" alt="捆绑">  
 自以为是的付出只会成为她的负担。  
 因此，不是对她好就有用的，而应该在正确的时刻做正确的事情。  
 应该站在她的角度思考，不要做让她反感的事情。
