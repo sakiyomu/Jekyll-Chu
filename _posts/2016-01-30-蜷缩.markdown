@@ -13,3 +13,7 @@ tags: [Hyde, 心情, 情绪, 低落, 蜷缩, 蜷曲, huddled]
 闭上眼，<br />
 流泪。
 </div>
+
+<div align="center" style="margin-top:20px;">
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=4902969&sid=3367547&mode=js"></script>
+</div>
