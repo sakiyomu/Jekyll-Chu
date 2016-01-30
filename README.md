@@ -17,8 +17,8 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://g
 
 ### Start in 4 steps
 
-1. Download or clone repo `git clone git@github.com:sakiyomu/jekyll-chu.git`
-2. Enter the folder: `cd jekyll-chu/`
+1. Download or clone repo `git clone git@github.com:sakiyomu/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
@@ -28,8 +28,8 @@ Access via: [http://localhost:4000/](http://localhost:4000/)
 
 ### Demo and Download
 
-[Demo](http://sakiyomu.github.com/jekyll-chu/)
-[Download](https://github.com/sakiyomu/jekyll-chu/archive/master.zip)
+[Demo](http://sakiyomu.github.com/jekyll-uno/)
+[Download](https://github.com/sakiyomu/jekyll-uno/archive/master.zip)
 
 ![jekyll-uno - free Jekyll theme](/screenshot.png)
 

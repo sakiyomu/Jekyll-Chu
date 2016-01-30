@@ -2,7 +2,7 @@
 layout: post
 title:  "蜷缩"
 date:   2016-01-30 01:15:50
-categories: 情绪
+categories: Hyde
 tags: [心情, 情绪, 低落, 蜷缩, 蜷曲, huddled]
 ---
 <a href="/images/postimg/2016-01-30_2.jpg"><img src="/images/postimg/2016-01-30.jpg" width="100%" alt="蜷缩"></a>
