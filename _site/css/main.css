@@ -72,6 +72,7 @@
 @media screen and (max-width: 750px){
 	.post > *{line-height:1.7em;}
 	.post img{margin:10px 0;width:100%;}
+	.post .sp-only img{width:auto;}
 }
 
 
