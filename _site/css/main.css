@@ -68,3 +68,9 @@
 	100%{opacity:1;}
 }
 
+
+
+/* 多说样式调整 */
+#ds-thread #ds-reset .ds-powered-by{
+	display: none !important;
+}

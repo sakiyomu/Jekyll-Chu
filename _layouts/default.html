@@ -8,6 +8,9 @@
     <div class="content-wrapper">
       <div class="content-wrapper__inner">
         {{ content }}
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="{{ site.author.name }}" data-title="{{ page.title }}" data-url="{{ page.url }}"></div>
+<!-- 多说评论框 end -->
       </div>
 
       {% include footer.html %}
