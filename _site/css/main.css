@@ -71,6 +71,9 @@
 
 
 /* 多说样式调整 */
+#ds-thread #ds-reset .ds-replybox .ds-avatar{
+	margin-left: 0 !important;
+}
 #ds-thread #ds-reset .ds-powered-by{
 	display: none !important;
 }
