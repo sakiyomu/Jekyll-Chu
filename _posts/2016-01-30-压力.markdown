@@ -2,8 +2,8 @@
 layout: post
 title:  "压力"
 date:   2016-01-30 16:00:00
-categories: Jekyll
-tags: [Jekeyll, 心情, 情绪, 压力, 绑架, 道德, pressure]
+categories: Hyde
+tags: [Hyde, 心情, 情绪, 压力, 绑架, 道德, pressure]
 ---
 <img style="line-height:1.7em;margin-bottom:1.3em;" src="/images/postimg/2016-01-30_3.jpg" alt="捆绑">  
 <div style="line-height:1.7em;margin-bottom:1.3em;">

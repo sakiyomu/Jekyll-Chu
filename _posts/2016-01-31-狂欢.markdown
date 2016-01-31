@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "狂欢"
+date:   2016-01-31 15:22:00
+categories: Jekyll
+tags: [Jekyll, 心情, 情绪, 孤单, 狂欢, solitude]
+---
+<img src="/images/postimg/2016-01-31.jpg" width="100%" alt="孤单">
+<div style="line-height:1.7;">
+孤单，是一个人的狂欢。<br>
+但是，不会失去对生活的热情。<br>
+<br>
+“世界不是分为好人和坏人，每个人内心都有光明和黑暗，真正重要的是我们如何选择，知道我们究竟是什么人。<br>
+（The world isn't split into good people and Death Eaters. We've allgot both light and dark inside us. What matters is the part we choose to acton. That's who we really are.）”<br>
+<br>
+直面自己的欲望，然后向善的生活。
+</div>
+
+
+<div class="pc-only" style="margin-top:20px;">
+<embed src="http://music.163.com/style/swf/widget.swf?sid=5260491&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+</div>
+
+<div class="sp-only" style="margin-top:20px;">
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=4902969&sid=386792&mode=js"></script>
+</div>
+
