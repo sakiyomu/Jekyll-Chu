@@ -5,12 +5,12 @@ date:   2016-01-30 01:15:50
 categories: Jekyll
 tags: [Jekyll, 心情, 情绪, 低落, 蜷缩, 蜷曲, huddled]
 ---
-<a href="/images/postimg/2016-01-30_2.jpg"><img src="/images/postimg/2016-01-30.jpg" width="100%" alt="蜷缩"></a>
+<a style="display:inline-block;margin-top:1.3em;" href="/images/postimg/2016-01-30_2.jpg"><img src="/images/postimg/2016-01-30.jpg" width="100%" alt="蜷缩"></a>
 <div style="text-align:center;line-height:2;">
-我抱着这个你不要的自己，<br />
-埋得很深很深，<br />
-却不能把回忆和爱埋起来，<br />
-闭上眼，<br />
+我抱着这个你不要的自己，<br>
+埋得很深很深，<br>
+却不能把回忆和爱埋起来，<br>
+闭上眼，<br>
 流泪。
 </div>
 
