@@ -5,8 +5,8 @@
     <description>专心致志搞技术&lt;br&gt;认认真真耍流氓</description>
     <link>http://jekyllhy.de//</link>
     <atom:link href="http://jekyllhy.de//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Feb 2016 12:09:57 +0800</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 12:09:57 +0800</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2016 12:59:44 +0800</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 12:59:44 +0800</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;h3&gt;&lt;a href=&quot;http://emmet.io/&quot; target=&quot;_blank&quot;&gt;Emmet&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_02.gif&quot; alt=&quot;Emmet&quot; /&gt;&lt;br /&gt;
-概括地说，Emmet（前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。怎么使用？你只需按约定的缩写形式书写而不用写整个代码，然后按“扩展”键，这些缩写就会自动扩展为对应的代码内容。 比如，你只需要输入 &lt;code&gt;((h4&amp;gt;a[rel=external])+p&amp;gt;img[width=500 height=320])*12&lt;/code&gt; ，然后它会被扩展转换成12个列表项和紧随其后的图像。然后你就可以在此基础上再填写内容，就这么简单。 
+概括地说，Emmet（前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。怎么使用？你只需按约定的缩写形式书写而不用写整个代码，然后按“扩展”键，这些缩写就会自动扩展为对应的代码内容。 比如，你只需要输入 &lt;code class=&quot;highlighter-rouge&quot;&gt;((h4&amp;gt;a[rel=external])+p&amp;gt;img[width=500 height=320])*12&lt;/code&gt; ，然后它会被扩展转换成12个列表项和紧随其后的图像。然后你就可以在此基础上再填写内容，就这么简单。 
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;https://packagecontrol.io/packages/ConvertToUTF8&quot; target=&quot;_blank&quot;&gt;ConvertToUTF8&lt;/a&gt;&lt;/h3&gt;
@@ -36,7 +36,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;User自定义文件下载：&lt;a href=&quot;/files/CSScomb.sublime-settings&quot;&gt;CSScomb.sublime-settings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;存放路径：&lt;code&gt;/Packages/User/&lt;/code&gt;
+  &lt;li&gt;存放路径：&lt;code class=&quot;highlighter-rouge&quot;&gt;/Packages/User/&lt;/code&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -51,7 +51,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;User自定义文件下载：&lt;a href=&quot;/files/Base File.sublime-settings&quot;&gt;Base File.sublime-settings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;存放路径：&lt;code&gt;/Packages/User/&lt;/code&gt;
+  &lt;li&gt;存放路径：&lt;code class=&quot;highlighter-rouge&quot;&gt;/Packages/User/&lt;/code&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -81,13 +81,13 @@
 &lt;h3&gt;&lt;a href=&quot;https://github.com/livereload/LiveReload&quot; target=&quot;_blank&quot;&gt;LiveReload&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;在本地写网页代码，通常都是保存以后再在浏览器里刷新一遍看看效果，刷新
 这个可真是体力活，不过懒人也有福了，因为有了LiveReload。&lt;br /&gt;
-在Sublime Text里按下&lt;code&gt;Command+Shift+P&lt;/code&gt;调出窗口，输入&lt;code&gt;install package&lt;/code&gt;，之后输入&lt;code&gt;livereload&lt;/code&gt;进行安装，重启Sublime Text。
+在Sublime Text里按下&lt;code class=&quot;highlighter-rouge&quot;&gt;Command+Shift+P&lt;/code&gt;调出窗口，输入&lt;code class=&quot;highlighter-rouge&quot;&gt;install package&lt;/code&gt;，之后输入&lt;code class=&quot;highlighter-rouge&quot;&gt;livereload&lt;/code&gt;进行安装，重启Sublime Text。
 然后安装浏览器扩展。LiveReload目前支持Safari、Chrome和Firefox三个浏览器的扩展，可以到&lt;a href=&quot;http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-&quot;&gt;http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-&lt;/a&gt;下载安装。
 然后使用浏览器载入要修改的页面，点击LiveReload图标，当其中间圈圈显示为实心黑点时则为已经连接上可以正常使用了，之后每当你在Sublime Text里对源代码进行修改并保存后，LiveReload就会自动的刷新浏览器，你就可以马上查看到修改后的效果了。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;User自定义文件下载：&lt;a href=&quot;/files/LiveReload.sublime-settings&quot;&gt;LiveReload.sublime-settings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;存放路径：&lt;code&gt;/Packages/User/&lt;/code&gt;
+  &lt;li&gt;存放路径：&lt;code class=&quot;highlighter-rouge&quot;&gt;/Packages/User/&lt;/code&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
