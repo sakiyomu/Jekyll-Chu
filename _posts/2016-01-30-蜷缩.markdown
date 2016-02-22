@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "蜷缩"
+date:   2016-01-30 01:15:50
+categories: Jekyll
+tags: [Jekyll, 心情, 情绪, 低落, 蜷缩, 蜷曲, huddled]
+---
+<a style="display:inline-block;margin-top:1.3em;" href="/images/postimg/2016-01-30_2.jpg"><img src="/images/postimg/2016-01-30.jpg" width="100%" alt="蜷缩"></a>
+<div style="text-align:center;line-height:2;">
+我抱着这个你不要的自己，<br>
+埋得很深很深，<br>
+却不能把回忆和爱埋起来，<br>
+闭上眼，<br>
+流泪。
+</div>
+
+
+<div class="pc-only" style="margin-top:20px;">
+<embed src="http://music.163.com/style/swf/widget.swf?sid=27937437&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+</div>
+
+<div class="sp-only" style="margin-top:20px;">
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=4902969&sid=3367547&mode=js"></script>
+</div>
+

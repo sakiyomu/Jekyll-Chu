@@ -1,41 +1,299 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>老͜͡朱不在日͜͡本</title>
-    <description>欢迎来到我的暗黑世界</description>
-    <link>http://joshgerdes.com/jekyll-uno/</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 29 Jan 2016 16:49:12 +0800</pubDate>
-    <lastBuildDate>Fri, 29 Jan 2016 16:49:12 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.0</generator>
+    <title>Jekeyll💻Hyde</title>
+    <description>专心致志搞技术&lt;br&gt;认认真真耍流氓</description>
+    <link>http://jekyllhy.de//</link>
+    <atom:link href="http://jekyllhy.de//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 22 Feb 2016 08:46:53 +0800</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 08:46:53 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Sublime Text 3必备插件</title>
+        <description>&lt;h3&gt;&lt;a href=&quot;https://packagecontrol.io/installation&quot; target=&quot;_blank&quot;&gt;Package Control&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_01.gif&quot; alt=&quot;Package Control&quot; /&gt;&lt;br /&gt;
+通俗易懂地说，这个是你在完成安装SublimeText后必须安装的东西。你问为什么？因为有了这个特殊的“插件包”，你可以很容易地安装、升级、删除，甚至非常方便地查看您已经安装在SublimeText中的包或插件的列表。它通过菜单和对应的行为使这些过程变得非常容易和有组织。
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;http://emmet.io/&quot; target=&quot;_blank&quot;&gt;Emmet&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_02.gif&quot; alt=&quot;Emmet&quot; /&gt;&lt;br /&gt;
+概括地说，Emmet（前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。怎么使用？你只需按约定的缩写形式书写而不用写整个代码，然后按“扩展”键，这些缩写就会自动扩展为对应的代码内容。 比如，你只需要输入 &lt;code&gt;((h4&amp;gt;a[rel=external])+p&amp;gt;img[width=500 height=320])*12&lt;/code&gt; ，然后它会被扩展转换成12个列表项和紧随其后的图像。然后你就可以在此基础上再填写内容，就这么简单。 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://packagecontrol.io/packages/ConvertToUTF8&quot; target=&quot;_blank&quot;&gt;ConvertToUTF8&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_03.gif&quot; alt=&quot;ConvertToUTF8&quot; /&gt;&lt;br /&gt;
+解决中日韩以下编码文字乱码问题。（GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS等）
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Codecs33&quot; target=&quot;_blank&quot;&gt;Codecs33&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为了让ConvertToUTF8更好的工作。
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;http://csscomb.com/&quot; target=&quot;_blank&quot;&gt;CSScomb&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_04.gif&quot; alt=&quot;CSScomb&quot; /&gt;&lt;br /&gt;
+这是用来给CSS属性进行排序的格式化插件。如果你想保持的代码干净整洁，并且希望按一定的顺序排列（是不是有点强迫症了？），那么这个插件是一种有效解决的方案。特别是当你和其他有自己代码编写风格的开发者一同协作的时候。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;User自定义文件下载：&lt;a href=&quot;/files/CSScomb.sublime-settings&quot;&gt;CSScomb.sublime-settings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;存放路径：&lt;code&gt;/Packages/User/&lt;/code&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/jonlabelle/Trimmer&quot; target=&quot;_blank&quot;&gt;Trimmer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_05.gif&quot; alt=&quot;Trimmer&quot; /&gt;&lt;br /&gt;
+你知道当你编写代码时，由于错误或别的某些原因，会产生一些不必要的空格。需要注意的是多余的空格有时也会造成错误。这个插件会自动删除这些不必要的空格，也可以删除空行，可以达到压缩css和js的效果。
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/wbond/sublime_alignment&quot; target=&quot;_blank&quot;&gt;Alignment&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_06.gif&quot; alt=&quot;Alignment&quot; /&gt;&lt;br /&gt;
+这个插件让你能对齐你的代码，包括 PHP、CSS 和 Javascript。代码看起来更简洁和可读，便于编辑。可以自己设置以哪些符号对齐。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;User自定义文件下载：&lt;a href=&quot;/files/Base File.sublime-settings&quot;&gt;Base File.sublime-settings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;存放路径：&lt;code&gt;/Packages/User/&lt;/code&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/kuroir/SCSS.tmbundle/zipball/SublimeText2&quot; target=&quot;_blank&quot;&gt;SASS&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_07.png&quot; alt=&quot;SASS&quot; /&gt;&lt;br /&gt;
+自动关联.sass、.scss文件。SASS文件语法高亮显示。&lt;br /&gt;
+直接在Package Control里搜索安装即可。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;下载Sublime SCSS语法高亮包“&lt;a href=&quot;https://github.com/kuroir/SCSS.tmbundle/zipball/SublimeText2&quot;&gt;点击下载&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;将下载下来的文件包解压。&lt;/li&gt;
+  &lt;li&gt;打开Sublime安装目录下的Data → Packages目录&lt;/li&gt;
+  &lt;li&gt;将包放入打开的目录，重启Sublime，搞定。&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/jaumefontal/SASS-Build-SublimeText2&quot; target=&quot;_blank&quot;&gt;SASS Build&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;SASS Build是一个编写CSS的预处理器。这个特别的插件将帮助你妥善构建包括压缩选项在内的SASS文件。一旦你安装了这个插件，你可以很容易地通过按Ctrl+B（MAC系统是Command+B）来启动它。 &lt;br /&gt;
+可以将SCSS解析成CSS或压缩版CSS，在Sublime的菜单Tools → Build System里可以自由切换选择。
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/alexnj/SublimeOnSaveBuild&quot; target=&quot;_blank&quot;&gt;SublimeOnSaveBuild&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;SASS文件保存时就自动进行编译，免去SASS Build的手动操作。&lt;br /&gt;
+直接在Package Control里搜索安装即可。&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/livereload/LiveReload&quot; target=&quot;_blank&quot;&gt;LiveReload&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在本地写网页代码，通常都是保存以后再在浏览器里刷新一遍看看效果，刷新
+这个可真是体力活，不过懒人也有福了，因为有了LiveReload。&lt;br /&gt;
+在Sublime Text里按下&lt;code&gt;Command+Shift+P&lt;/code&gt;调出窗口，输入&lt;code&gt;install package&lt;/code&gt;，之后输入&lt;code&gt;livereload&lt;/code&gt;进行安装，重启Sublime Text。
+然后安装浏览器扩展。LiveReload目前支持Safari、Chrome和Firefox三个浏览器的扩展，可以到&lt;a href=&quot;http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-&quot;&gt;http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-&lt;/a&gt;下载安装。
+然后使用浏览器载入要修改的页面，点击LiveReload图标，当其中间圈圈显示为实心黑点时则为已经连接上可以正常使用了，之后每当你在Sublime Text里对源代码进行修改并保存后，LiveReload就会自动的刷新浏览器，你就可以马上查看到修改后的效果了。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;User自定义文件下载：&lt;a href=&quot;/files/LiveReload.sublime-settings&quot;&gt;LiveReload.sublime-settings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;存放路径：&lt;code&gt;/Packages/User/&lt;/code&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/SublimeLinter/SublimeLinter/tree/sublime-text-3&quot; target=&quot;_blank&quot;&gt;SublimeLinter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-22_08.jpg&quot; alt=&quot;SASS&quot; /&gt;&lt;br /&gt;
+SublimeLinter是一个代码校验插件，它可以帮你找出错误或编写不规范的代码，支持C/C++、CoffeeScript、CSS、Git Commit Messages、Haml、HTML、Java、JavaScript、Lua、Objective-J、Perl、PHP、Puppet、Python、Ruby和XML语言。 &lt;br /&gt;
+在使用SublimeLinter之前，你要安装相应的程序，详见&lt;a href=&quot;https://github.com/SublimeLinter/&quot;&gt;https://github.com/SublimeLinter/&lt;/a&gt;，搜索：html、css、js。如果要校验JavaScript或CSS，还需要安装Node.js。
+也可以在Package Control里搜索以下程序安装。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SublimeLinter-html-tidy&lt;/li&gt;
+  &lt;li&gt;SublimeLinter-csslint&lt;/li&gt;
+  &lt;li&gt;SublimeLinter-jshint&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5&gt;部分插件介绍参考：&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://www.oschina.net/translate/20-powerful-
+sublimetext-plugins&quot;&gt;20 个强大的 Sublime Text 插件&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://www.imjeff.cn/blog/146/&quot;&gt;Sublime Text 3 支持的热门插件推荐&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
-        <pubDate>Fri, 08 Jan 2016 23:04:23 +0800</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/2016/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 22 Feb 2016 08:22:00 +0800</pubDate>
+        <link>http://jekyllhy.de//2016/SublimeText3-plugin/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/SublimeText3-plugin/</guid>
         
-        <category>jekyll</category>
+        <category>前端</category>
+        
+        <category>sublime，st3，插件，plugin，package control，emmet，csscomb，utf8，trimmer，alignment，sass，scss，livereload，linter</category>
         
         
-        <category>jekyll</category>
+        <category>前端</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Sublime Text 3</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-02-19.png&quot; width=&quot;100%&quot; alt=&quot;Sublime Text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sublime Text 3：&lt;/strong&gt;&lt;a href=&quot;https://www.sublimetext.com/3&quot;&gt;https://www.sublimetext.com/3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b style=&quot;font-weight:bold;&quot;&gt;最新 Sublime Text3 激活码 (Build 3103 有效) &lt;/b&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p style=&quot;padding-left:20px;text-align:left;font-size:14px;&quot;&gt;—– BEGIN LICENSE —–&lt;br /&gt;
+Ryan Clark&lt;br /&gt;
+Single User License&lt;br /&gt;
+EA7E-812479&lt;br /&gt;
+2158A7DE B690A7A3 8EC04710 006A5EEB&lt;br /&gt;
+34E77CA3 9C82C81F 0DB6371B 79704E6F&lt;br /&gt;
+93F36655 B031503A 03257CCC 01B20F60&lt;br /&gt;
+D304FA8D B1B4F0AF 8A76C7BA 0FA94D55&lt;br /&gt;
+56D46BCE 5237A341 CD837F30 4D60772D&lt;br /&gt;
+349B1179 A996F826 90CDB73C 24D41245&lt;br /&gt;
+FD032C30 AD5E7241 4EAA66ED 167D91FB&lt;br /&gt;
+55896B16 EA125C81 F550AF6B A6820916&lt;br /&gt;
+—— END LICENSE ——&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 20 Feb 2016 00:22:00 +0800</pubDate>
+        <link>http://jekyllhy.de//2016/Sublime-Text-3/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/Sublime-Text-3/</guid>
+        
+        <category>前端</category>
+        
+        <category>sublime</category>
+        
+        <category>st3</category>
+        
+        
+        <category>前端</category>
+        
+      </item>
+    
+      <item>
+        <title>狂欢</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-01-31.jpg&quot; alt=&quot;孤单&quot; /&gt;&lt;br /&gt;
+孤单，是一个人的狂欢。&lt;br /&gt;
+但是，不会失去对生活的热情。&lt;/p&gt;
+
+&lt;p&gt;“世界不是分为好人和坏人，每个人内心都有光明和黑暗，真正重要的是我们如何选择，知道我们究竟是什么人。&lt;br /&gt;
+（&lt;em&gt;The world isn’t split into good people and Death Eaters. We’ve allgot both light and dark inside us. What matters is the part we choose to acton. That’s who we really are.&lt;/em&gt;）”&lt;/p&gt;
+
+&lt;p&gt;直面自己的欲望，然后向善的生活。&lt;/p&gt;
+
+&lt;div class=&quot;pc-only&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;embed src=&quot;http://music.163.com/style/swf/widget.swf?sid=5260491&amp;amp;type=2&amp;amp;auto=1&amp;amp;width=320&amp;amp;height=66&quot; width=&quot;340&quot; height=&quot;86&quot; allownetworking=&quot;all&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;sp-only&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.xiami.com/widget/player-single?uid=4902969&amp;amp;sid=386792&amp;amp;mode=js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 31 Jan 2016 23:22:00 +0800</pubDate>
+        <link>http://jekyllhy.de//2016/%E7%8B%82%E6%AC%A2/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/%E7%8B%82%E6%AC%A2/</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>心情</category>
+        
+        <category>情绪</category>
+        
+        <category>孤单</category>
+        
+        <category>狂欢</category>
+        
+        <category>solitude</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>压力</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/postimg/2016-01-30_3.jpg&quot; alt=&quot;捆绑&quot; /&gt; &lt;br /&gt;
+自以为是的付出只会成为她的负担。&lt;br /&gt;
+因此，不是对她好就有用的，而应该在正确的时刻做正确的事情。&lt;br /&gt;
+应该站在她的角度思考，不要做让她反感的事情。&lt;/p&gt;
+
+&lt;p&gt;在公司或者熟人很多的地方亲近她，会给她带来很大的社交压力。&lt;br /&gt;
+频繁的献殷勤和送东西给她，会让她有压迫感。&lt;/p&gt;
+
+&lt;p&gt;这些都会破坏关系，让她失去舒适感，没有舒适感，她怎么会跟你聊天互动？&lt;br /&gt;
+她会带有戒备心，躲避你，不给你机会接近她。&lt;/p&gt;
+
+&lt;p&gt;建立舒适感，让她产生安全感，才会让她和你轻松的聊天，才会给你机会进入她的世界。&lt;/p&gt;
+
+&lt;p&gt;在你还不能给她安全感之前，请克制自己的行为。&lt;/p&gt;
+
+&lt;div class=&quot;pc-only&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;embed src=&quot;http://music.163.com/style/swf/widget.swf?sid=276840&amp;amp;type=2&amp;amp;auto=1&amp;amp;width=320&amp;amp;height=66&quot; width=&quot;340&quot; height=&quot;86&quot; allownetworking=&quot;all&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;sp-only&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.xiami.com/widget/player-single?uid=4902969&amp;amp;sid=1770906933&amp;amp;mode=js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 31 Jan 2016 00:00:00 +0800</pubDate>
+        <link>http://jekyllhy.de//2016/%E5%8E%8B%E5%8A%9B/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/%E5%8E%8B%E5%8A%9B/</guid>
+        
+        <category>Hyde</category>
+        
+        <category>心情</category>
+        
+        <category>情绪</category>
+        
+        <category>压力</category>
+        
+        <category>绑架</category>
+        
+        <category>道德</category>
+        
+        <category>pressure</category>
+        
+        
+        <category>Hyde</category>
+        
+      </item>
+    
+      <item>
+        <title>蜷缩</title>
+        <description>&lt;p&gt;&lt;a style=&quot;display:inline-block;margin-top:1.3em;&quot; href=&quot;/images/postimg/2016-01-30_2.jpg&quot;&gt;&lt;img src=&quot;/images/postimg/2016-01-30.jpg&quot; width=&quot;100%&quot; alt=&quot;蜷缩&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center;line-height:2;&quot;&gt;
+我抱着这个你不要的自己，&lt;br /&gt;
+埋得很深很深，&lt;br /&gt;
+却不能把回忆和爱埋起来，&lt;br /&gt;
+闭上眼，&lt;br /&gt;
+流泪。
+&lt;/div&gt;
+
+&lt;div class=&quot;pc-only&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;embed src=&quot;http://music.163.com/style/swf/widget.swf?sid=27937437&amp;amp;type=2&amp;amp;auto=1&amp;amp;width=320&amp;amp;height=66&quot; width=&quot;340&quot; height=&quot;86&quot; allownetworking=&quot;all&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;sp-only&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.xiami.com/widget/player-single?uid=4902969&amp;amp;sid=3367547&amp;amp;mode=js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 30 Jan 2016 09:15:50 +0800</pubDate>
+        <link>http://jekyllhy.de//2016/%E8%9C%B7%E7%BC%A9/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/%E8%9C%B7%E7%BC%A9/</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>心情</category>
+        
+        <category>情绪</category>
+        
+        <category>低落</category>
+        
+        <category>蜷缩</category>
+        
+        <category>蜷曲</category>
+        
+        <category>huddled</category>
+        
+        
+        <category>Jekyll</category>
         
       </item>
     

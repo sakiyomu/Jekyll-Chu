@@ -1,0 +1,5 @@
+{
+	// If the indent level of a multi-line selection should be aligned
+	"align_indent": false,
+	"mid_line_tabs": true,
+}

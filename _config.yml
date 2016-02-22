@@ -1,12 +1,12 @@
 # Site settings
-title: 老朱不在日本
-description: '欢迎来到我的暗黑世界'
-url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
+title: Jekeyll💻Hyde
+description: '专心致志搞技术<br>认认真真耍流氓'
+url: 'http://jekyllhy.de' 
+baseurl: '/'
+# google_analytics: 'UA-73116272-1'
 
 author:
-  name: 'Jekyll-Chu'
+  name: 'JekyllHy.de'
   email: muyoshiki@hotmail.com
   twitter_username: hamasupo
   github_username:  sakiyomu
