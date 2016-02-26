@@ -2,12 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekeyll💻Hyde</title>
-    <description>专心致志搞技术&lt;br&gt;认认真真耍流氓</description>
+    <description>专心致志搞技术&lt;br&gt;一本正经耍流氓</description>
     <link>http://jekyllhy.de//</link>
     <atom:link href="http://jekyllhy.de//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Feb 2016 12:59:44 +0800</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 12:59:44 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Feb 2016 16:45:39 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Feb 2016 16:45:39 +0800</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>Emmet必会快捷键</title>
+        <description>&lt;style&gt;
+h4 {
+    background-color: #333333;
+    border-left: 5px solid #336699;
+    font-size: 120%;
+    margin: 5px 0;
+    padding: 10px;
+    color: #fff;
+}
+h4 a:after {
+    content: url(&quot;http://1.bp.blogspot.com/-0s6JgzUybPE/T8hA2CRW6NI/AAAAAAAAAQs/848ih6zCa0U/s1600/target_blank.png&quot;);
+    margin: 0 2px;
+}
+span.key {
+    background-color: #eee;
+    border: 5px outset #eeeeee;
+    border-radius: 8px;
+    color: black;
+    line-height: 2.5em;
+    margin: 2px;
+    padding: 2px 8px;
+}
+&lt;/style&gt;
+
+&lt;h4&gt;打开Package Control&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&quot;key&quot;&gt;⌘&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;⇧&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;P&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Shift&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;P&lt;/span&gt;（Windows）&lt;/p&gt;
+&lt;p&gt;以下命令可以打开Package Control后输入名称执行或查看快捷键。&lt;/p&gt;
+
+&lt;h4&gt;现有内容添加标签（&lt;a href=&quot;http://docs.emmet.io/actions/wrap-with-abbreviation/&quot; target=&quot;_blank&quot;&gt;Wrap with Abbreviation&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;在已经写好的内容上套上需要的标签。快捷键打开输入条后自己输入所需要的标签，一些特殊写法请参考链接里的官方说明。&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;W&lt;/span&gt; 或 &lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;⌥&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;↩&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;W&lt;/span&gt; 或 &lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Alt&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Enter&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h4&gt;扩大选择范围（&lt;a href=&quot;http://docs.emmet.io/actions/match-pair/&quot; target=&quot;_blank&quot;&gt;Match Tag Pair&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;每执行一次就向外多选中一层。&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;D&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;D&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h4&gt;注释内容（&lt;a href=&quot;http://docs.emmet.io/actions/toggle-comment/&quot; target=&quot;_blank&quot;&gt;Toggle Comment&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;将选中的内容变成注释。&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌘&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;/&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;/&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h4&gt;开/闭标签位置相互跳转（&lt;a href=&quot;http://docs.emmet.io/actions/go-to-pair/&quot; target=&quot;_blank&quot;&gt;Go to Matching Pair&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;用来查看标签对应关系很方便。&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;⇧&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;T&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Shift&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;T&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h4&gt;删除标签（&lt;a href=&quot;http://docs.emmet.io/actions/remove-tag/&quot; target=&quot;_blank&quot;&gt;Remove Tag&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;默认快捷键不方便，忘了它吧。建议自定义快捷键如下：&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌘&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;R&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;R&lt;/span&gt;（Windows）&lt;br /&gt;
+（自定义方法问我）&lt;/p&gt;
+
+&lt;h4&gt;获取图片尺寸（&lt;a href=&quot;http://docs.emmet.io/actions/update-image-size/&quot; target=&quot;_blank&quot;&gt;Update Image Size&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;可以自动获取图片的实际尺寸导入到HTML，非常方便。&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;⇧&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;I&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Shift&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;I&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h4&gt;图片转Base64（&lt;a href=&quot;http://docs.emmet.io/actions/base64/&quot; target=&quot;_blank&quot;&gt;Encode/Decode Image to data:URL&lt;/a&gt;）&lt;/h4&gt;
+&lt;p&gt;直接在HTML文件里操作，图片需要转Base64的话非常方便。&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;⇧&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;D&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Shift&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;D&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h5&gt;参考网页：&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://www.iteye.com/news/27580&quot;&gt;Emmet：HTML/CSS代码快速编写神器&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://emmet.evget.com/&quot;&gt;Emmet快捷方式查询&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://qiita.com/sygnas/items/d609790b25989c6de703&quot;&gt;SublimeText2のEmmet（Zen-Coding）カスタマイズ&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://docs.emmet.io/actions/wrap-with-abbreviation/&quot;&gt;Wrap with Abbreviation&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://wada811.blogspot.com/2013/03/sublime-text-2-emmet-shortcut-key.html&quot;&gt;[SublimeText]Emmetを使いこなすためのショートカットキー&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 23 Feb 2016 19:52:00 +0800</pubDate>
+        <link>http://jekyllhy.de//2016/Emmet-shortcuts/</link>
+        <guid isPermaLink="true">http://jekyllhy.de//2016/Emmet-shortcuts/</guid>
+        
+        <category>前端</category>
+        
+        <category>Emmet</category>
+        
+        <category>sublime，st3，快捷键，shortcuts</category>
+        
+        
+        <category>前端</category>
+        
+      </item>
     
       <item>
         <title>Sublime Text 3必备插件</title>
