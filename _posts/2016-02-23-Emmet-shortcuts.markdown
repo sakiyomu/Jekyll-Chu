@@ -70,6 +70,10 @@ span.key {
 <span class="key">⌃</span> + <span class="key">⇧</span> + <span class="key">D</span>（Macintosh）<br>
 <span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">D</span>（Windows）</p>
 
+<h4>整行代码上下移动</h4>
+<p>将光标所在行代码上下移动。<br>
+<span class="key">⌘</span> + <span class="key">⌃</span> + <span class="key">↑</span> or <span class="key">↓</span>（Macintosh）</p>
+
 
 
 <h5>参考网页：</h5>
