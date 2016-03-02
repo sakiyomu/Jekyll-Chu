@@ -3,7 +3,7 @@ layout: post
 title:  "Emmet必会快捷键"
 date:   2016-02-23 11:52:00
 categories: 前端
-tags: [前端, Emmet, sublime，st3，快捷键，shortcuts]
+tags: [前端, Emmet, sublime, st3, 快捷键, shortcuts]
 ---
 <style>
 h4 {
@@ -73,6 +73,16 @@ span.key {
 <h4>整行代码上下移动</h4>
 <p>将光标所在行代码上下移动。<br>
 <span class="key">⌘</span> + <span class="key">⌃</span> + <span class="key">↑</span> or <span class="key">↓</span>（Macintosh）</p>
+
+<h4>CSScomb快捷键</h4>
+<p>将CSS代码统一排序并统一格式。（需要CSScomb插件）<br>
+<span class="key">⌃</span> + <span class="key">↑</span> + <span class="key">C</span>（Macintosh）<br>
+<span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">C</span>（Windows）</p>
+
+<h4>Alignment快捷键</h4>
+<p>将PHP、CSS和Javascript代码按设置的标点符号对齐。（需要Alignment插件）<br>
+<span class="key">⌃</span> + <span class="key">↑</span> + <span class="key">A</span>（Macintosh）<br>
+<span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">A</span>（Windows）</p>
 
 
 

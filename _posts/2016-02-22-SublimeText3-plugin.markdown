@@ -3,7 +3,7 @@ layout: post
 title:  "Sublime Text 3必备插件"
 date:   2016-02-22 08:22:00"
 categories: 前端
-tags: [前端, sublime，st3，插件，plugin，package control，emmet，csscomb，utf8，trimmer，alignment，sass，scss，livereload，linter]
+tags: [前端, sublime, st3, 插件, plugin, package control, emmet, csscomb, utf8, trimmer, alignment, sass, scss, livereload, linter]
 ---
 
 <h3><a href="https://packagecontrol.io/installation" target="_blank">Package Control</a></h3>  

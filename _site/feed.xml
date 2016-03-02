@@ -5,8 +5,8 @@
     <description>专心致志搞技术&lt;br&gt;一本正经耍流氓</description>
     <link>http://jekyllhy.de//</link>
     <atom:link href="http://jekyllhy.de//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Feb 2016 16:12:34 +0800</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 16:12:34 +0800</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2016 08:44:02 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 08:44:02 +0800</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -80,6 +80,16 @@ span.key {
 &lt;p&gt;将光标所在行代码上下移动。&lt;br /&gt;
 &lt;span class=&quot;key&quot;&gt;⌘&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;↑&lt;/span&gt; or &lt;span class=&quot;key&quot;&gt;↓&lt;/span&gt;（Macintosh）&lt;/p&gt;
 
+&lt;h4&gt;CSScomb快捷键&lt;/h4&gt;
+&lt;p&gt;将CSS代码统一排序并统一格式。（需要CSScomb插件）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;↑&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;C&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Shift&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;C&lt;/span&gt;（Windows）&lt;/p&gt;
+
+&lt;h4&gt;Alignment快捷键&lt;/h4&gt;
+&lt;p&gt;将PHP、CSS和Javascript代码按设置的标点符号对齐。（需要Alignment插件）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;⌃&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;↑&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;A&lt;/span&gt;（Macintosh）&lt;br /&gt;
+&lt;span class=&quot;key&quot;&gt;Ctrl&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;Shift&lt;/span&gt; + &lt;span class=&quot;key&quot;&gt;A&lt;/span&gt;（Windows）&lt;/p&gt;
+
 &lt;h5&gt;参考网页：&lt;/h5&gt;
 
 &lt;ul&gt;
@@ -99,7 +109,13 @@ span.key {
         
         <category>Emmet</category>
         
-        <category>sublime，st3，快捷键，shortcuts</category>
+        <category>sublime</category>
+        
+        <category>st3</category>
+        
+        <category>快捷键</category>
+        
+        <category>shortcuts</category>
         
         
         <category>前端</category>
@@ -217,7 +233,33 @@ sublimetext-plugins&quot;&gt;20 个强大的 Sublime Text 插件&lt;/a&gt;&lt;/e
         
         <category>前端</category>
         
-        <category>sublime，st3，插件，plugin，package control，emmet，csscomb，utf8，trimmer，alignment，sass，scss，livereload，linter</category>
+        <category>sublime</category>
+        
+        <category>st3</category>
+        
+        <category>插件</category>
+        
+        <category>plugin</category>
+        
+        <category>package control</category>
+        
+        <category>emmet</category>
+        
+        <category>csscomb</category>
+        
+        <category>utf8</category>
+        
+        <category>trimmer</category>
+        
+        <category>alignment</category>
+        
+        <category>sass</category>
+        
+        <category>scss</category>
+        
+        <category>livereload</category>
+        
+        <category>linter</category>
         
         
         <category>前端</category>
