@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "qingming"
+date:   2016-04-04 10:00:00
+categories: Jekyll
+tags: [Jekyll, 心情, 情绪, 清明, 雨霖铃]
+---
+<p><img src="/images/postimg/2016-04-04.jpg" width="100%" alt="清明・金陵・雨霖铃"></p>
+
+<h4>清明・金陵・雨霖铃</h4>
+
+<p>寒蝉凄切　对长亭晚　骤雨初歇　<br>
+都门帐饮无绪　方留恋处　兰舟催发　<br>
+执手相看泪眼　竟无语凝噎　<br>
+念去去　千里烟波　暮霭沉沉楚天阔　<br>
+多情自古伤离别　更那堪,冷落清秋节　<br>
+今宵酒醒何处　杨柳岸　晓风残月　<br>
+此去经年　应是良辰好景虚设　<br>
+便纵有千种风情　更与何人说　</p>
+
+
+<div class="pc-only" style="margin-top:20px;">
+<embed src="http://music.163.com/style/swf/widget.swf?sid=34125082&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+</div>
+
+<div class="sp-only" style="margin-top:20px;">
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=4902969&sid=1774626024&mode=js"></script>
+</div>

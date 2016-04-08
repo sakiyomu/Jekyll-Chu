@@ -3,6 +3,36 @@
   
     
     <url>
+      <loc>http://jekyllhy.de/2016/qingming/</loc>
+      
+        <lastmod>2016-04-04T18:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://jekyllhy.de/2016/brutal/</loc>
+      
+        <lastmod>2016-04-01T01:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://jekyllhy.de/2016/Emmet-skills/</loc>
       
         <lastmod>2016-03-22T18:44:00+08:00</lastmod>
@@ -126,7 +156,7 @@
     <url>
       <loc>http://jekyllhy.de/feed.xml</loc>
       
-        <lastmod>2016-03-23T10:35:53+08:00</lastmod>
+        <lastmod>2016-04-08T08:33:30+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,7 +171,7 @@
     <url>
       <loc>http://jekyllhy.de/</loc>
       
-        <lastmod>2016-03-23T10:35:53+08:00</lastmod>
+        <lastmod>2016-04-08T08:33:30+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,7 +186,7 @@
     <url>
       <loc>http://jekyllhy.de/js/main.js</loc>
       
-        <lastmod>2016-03-23T10:35:53+08:00</lastmod>
+        <lastmod>2016-04-08T08:33:30+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -173,7 +203,7 @@
     <url>
       <loc>http://jekyllhy.de/tags/</loc>
       
-        <lastmod>2016-03-23T10:35:53+08:00</lastmod>
+        <lastmod>2016-04-08T08:33:30+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
